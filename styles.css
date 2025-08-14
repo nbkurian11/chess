@@ -25,10 +25,10 @@ h1 {
 
 .row:nth-child(odd) .square:nth-child(odd),
 .row:nth-child(even) .square:nth-child(even) {
-    background-color: #e4cfbf; 
+    background-color: #faf6f3; 
 }
 
 .row:nth-child(odd) .square:nth-child(even),
 .row:nth-child(even) .square:nth-child(odd) {
-    background-color: #e27304; 
+    background-color: #055b05; 
 }
