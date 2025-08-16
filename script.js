@@ -18,3 +18,7 @@ let board = [
     ["P", "P", "P", "P", "P", "P", "P", "P"],
     ["R", "N", "B", "Q", "K", "B", "N", "R"]
 ]
+
+function movePiece(fromRow, toRow, fromColumn, toColumn) {
+    
+}
